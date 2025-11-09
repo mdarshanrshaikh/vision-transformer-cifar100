@@ -11,7 +11,7 @@ NUM_CLASSES = 100
 MODEL_NAME = 'vit_tiny_patch16_224'
 IMG_SIZE = 224
 DEVICE = "cpu" 
-SAVE_PATH = './vit_cifar100_finetuned.pth' 
+SAVE_PATH = 'vit_cifar100_finetuned.pth' 
 
 # --- 2. Utility Functions ---
 
